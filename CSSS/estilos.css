@@ -1,0 +1,41 @@
+.colorfondo{
+    background-color:rgb(240, 149, 121);
+}
+.letra{
+    color:white;
+}
+.letra2{
+    color:#d99694;
+}
+h1{
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    
+}
+h3{
+    color:black;
+    font-weight: bold;
+}
+h4{
+    color: black;
+}
+
+.sub
+{
+    color: blue;
+    text-decoration: underline;
+}
+.letra3
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.profile
+{
+    width: 205px;
+    height: 215px;
+    margin: 0 auto;
+    display: block;
+    
+}
